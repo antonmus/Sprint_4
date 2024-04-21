@@ -6,6 +6,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import static org.junit.Assert.assertTrue;
 
+
 //Форма "Про аренду"
 public class AboutRentPage {
     private final WebDriver driver;

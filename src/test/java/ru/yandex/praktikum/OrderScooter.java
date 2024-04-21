@@ -10,6 +10,7 @@ import ru.yandex.praktikum.page.AboutRentPage;
 import ru.yandex.praktikum.page.ForWhomPage;
 import ru.yandex.praktikum.page.MainPageScooter;
 
+
 @RunWith(Parameterized.class)
 public class OrderScooter {
 

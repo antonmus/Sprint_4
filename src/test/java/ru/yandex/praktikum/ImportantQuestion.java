@@ -9,6 +9,7 @@ import org.junit.Test;
 import ru.yandex.praktikum.page.MainPageScooter;
 import static org.junit.Assert.assertTrue;
 
+
 @RunWith(Parameterized.class)
 public class ImportantQuestion {
     private WebDriver driver;
